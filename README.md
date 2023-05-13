@@ -1,5 +1,7 @@
 # MedBase
 
+A patient details storing app that takes input in an interactive window and saves the details in a .csv file locally.
+
 -> 2020
   Initial project was a basic Java project which showed OOPS, file handling and exception handling.
   
